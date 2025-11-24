@@ -5,7 +5,7 @@ local opt = vim.opt
 opt.relativenumber = true
 opt.number = true
 
-opt.cmdheight = 0 -- makes the status bar of the neovim at the bottom
+-- opt.cmdheight = 0 -- makes the status bar of the neovim at the bottom
 -- tabs & indentation
 opt.tabstop = 2 -- 2 spaces for tabs (prettier default)
 opt.shiftwidth = 2 -- 2 spaces for indent width
